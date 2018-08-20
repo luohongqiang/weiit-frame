@@ -2,6 +2,7 @@
 经典模块化Java快速开发轻量级框架，基于Spring+SpringMVC+Mybatis框架，解决java快速开发问题。去实体化快速开发、模块化开发、集成shiro安全框架、微信公众号开发集成、微信小程序开发集成、微信支付集成、微信第三方开发平台集成与一体的开源解决方案。
 
 一、WEIIT框架目前围绕解决的企业开发问题：
+
 1、框架前景问题：
 
 框架基于Spring+SpringMVC+Mybatis主流开发框架，但需要提高SSM开发时的效率问题，并且要考虑SpringBoot、Springcloud以后要成为主流的问题。
